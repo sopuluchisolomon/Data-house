@@ -1,0 +1,13 @@
+employee_id,first_name,last_name,occupation,salary,dept_id
+1,Jennifer,Kings,Deputy Director of Parks and Recreation,75000,1
+3,Solomon,steve,Director of Parks and Recreation,50000,1
+4,Mary,Ohamadike,Entrepreneur,25000,1
+5,Samuel,James,Assistant to the Director of Parks and Recreation,50000,1
+6,Blessing ,paul,Office Manager,60000,1
+7,Chinemerem,Emeka,Office Manager,55000,1
+8,Charles,Okafor,Nurse,90000,4
+9,Henry,Okeke,City Manager,70000,3
+10,Williams ,Ford,State Auditor,20000,6
+11,Stanly ,Chigozie,Shoe Shiner and Musician,57000,NULL
+12,Chima ,Nwokeoma,City Planner,65000,3
+13,Chidi,Dike,Parks Director,53000,1
